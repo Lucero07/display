@@ -1,7 +1,18 @@
+
 .contenedor{
+  width: 20%;
+  height: 10%;
+  padding: 1% 1% 3% 1%;
+  margin: 1% 35%;
+  display: block;
+
+}
+.igualColor{
   background-color: yellow;
+
+
 }
 .es{
-  background-color: pink;
+  background-color: #FF0080;
 
 }
