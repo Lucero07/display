@@ -1,7 +1,7 @@
 .contenedor {
     display: inline-block;
     padding: 1% 1% 3% 1%;
-    width: 20%
+    width: 20%;
 }
 
 .igualColor {
@@ -15,4 +15,45 @@
 #seccion {
     display: block;
     margin-left: 15%;
+}
+
+/*ultimo ejercicio*/
+.forma{
+  background-color: #BDBDBD;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-left: 1px solid #000;
+  border-right:1px solid #000;
+}
+#cuadros{
+  background-color: #58FAAC;
+  width: 80%;
+  height: 500px;
+  margin: 10%;
+  padding: 2%;
+}
+
+.cuadro{
+  display: inline-block;
+  width: 10%;
+  height: 10%;
+  margin: 1%;
+}
+#primero{
+  margin-bottom: 2%;
+}
+#grande{
+  display: block;
+  width: 35%;
+  height: 12%;
+  padding: 1%;
+  margin: 1%;
+}
+.cuadrohijo{
+  display: inline-block;
+  width: 30%;
+  height: 90%;
+}
+.block{
+display: block;
 }
